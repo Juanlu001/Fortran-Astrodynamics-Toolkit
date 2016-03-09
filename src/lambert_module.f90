@@ -1072,7 +1072,7 @@
     write(*,*) '   Test 2: Speed test'
     write(*,*) ''
 
-    n_cases = 100000
+    n_cases = 1000000
 
     do imeth=1,2    ![izzo, gooding]
 
